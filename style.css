@@ -1,0 +1,30 @@
+* {
+    margin-top: 5px;
+}
+
+.search-btn {
+    background-color: rgb(234, 232, 232);
+    color: #80d7ba;
+    border: 2px solid #80d7ba;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.plus-btn {
+    background-color: #80d7ba;
+    color: aliceblue;
+    border: #80d7ba;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    font-size: large;
+}
+
+.create-btn {
+    background-color: #0088ff;
+    color: aliceblue;
+    width: 150px;
+    height: 30px;
+    box-shadow: 3px 3px 0px 0px black;
+}
